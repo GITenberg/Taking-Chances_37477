@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38867'
     url: http://www.gutenberg.org/2009/agents/38867
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37477#Taking-Chances
 gutenberg_issued: '2011-09-19'
 gutenberg_type: Text
 identifiers:
